@@ -1,4 +1,4 @@
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dopinheiro)](https://github.com/dipinheiro/github-readme-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dopinheiro&theme=dracula)](https://github.com/dipinheiro/github-readme-stats)
 
 
 <!--
